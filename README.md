@@ -1,3 +1,3 @@
 # AMarket
 
-Travis CI: https://travis-ci.org/5minutesAM/AMarket.svg?branch=master 
+Travis CI: ![build](https://travis-ci.org/5minutesAM/AMarket.svg?branch=master)
